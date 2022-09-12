@@ -1,0 +1,13 @@
+{
+  "name": "generate-docs",
+  "version": "0.0.0",
+  "description": "Documentation for running / publishing projects.",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "author": "xmagee",
+  "dependencies": {
+    "md-to-pdf": "^4.0.0"
+  }
+}
